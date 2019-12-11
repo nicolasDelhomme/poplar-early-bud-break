@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0159-R0001" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_a4_CGCTCATT-GGCTCTGA_L004_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="dabd32eead7ba5acfa4537019988b4ad"/>
+    <FILE filename="UPSC-0159/416_a4_CGCTCATT-GGCTCTGA_L004_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="67dded12fb833560f5eeb1624abf6508"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0002" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_a5_GAGATTCC-GGCTCTGA_L004_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="f3e7f21a4bd00e13e9ab037ab73d21ba"/>
+    <FILE filename="UPSC-0159/416_a5_GAGATTCC-GGCTCTGA_L004_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="4d95da83d0e2099a98e4afb5ca38cd9d"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0003" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_a6_ATTCAGAA-GGCTCTGA_L004_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="50dd134b6f677bb27325ed94d3361978"/>
+    <FILE filename="UPSC-0159/416_a6_ATTCAGAA-GGCTCTGA_L004_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="237d62ec543ea942432dd2225e0b6fa0"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0004" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_c4_CGCTCATT-CCTATCCT_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="4c5201c3dfe442d33f1128417c451177"/>
+    <FILE filename="UPSC-0159/416_c4_CGCTCATT-CCTATCCT_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="9defcf1918976b3b046d7e781de7ade7"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0005" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_c5_TCCGCGAA-GGCTCTGA_L004_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="c28970497df2a9d5fd16fb6d23f3fa7a"/>
+    <FILE filename="UPSC-0159/416_c5_TCCGCGAA-GGCTCTGA_L004_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="03a7b4ceef10842c0cee0aa577a1e698"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0006" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_c6_GAGATTCC-CCTATCCT_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2d25ea60b6e13db2298a0acf27c0612e"/>
+    <FILE filename="UPSC-0159/416_c6_GAGATTCC-CCTATCCT_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="12924a7f92b592a994dd8993aab4df55"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0007" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0007"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_e4_AGCGATAG-TAATCTTA_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="cb1c665ce5f259ee39b51323b2095f27"/>
+    <FILE filename="UPSC-0159/416_e4_AGCGATAG-TAATCTTA_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="8c20ea753afe72d51e7411396c5b7672"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0008" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0008"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_e5_CGGCTATG-CAGGACGT_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="760f62fb62700a950074ac9e8a44d076"/>
+    <FILE filename="UPSC-0159/416_e5_CGGCTATG-CAGGACGT_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="c1555683533b5a2cfde992f50a6a774d"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0009" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0009"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_e6_TCCGCGAA-CAGGACGT_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="ce93c3dfc3e2fc38faac1be09448e133"/>
+    <FILE filename="UPSC-0159/416_e6_TCCGCGAA-CAGGACGT_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="34ff49e76a9f21e17328a4c65e9accd8"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0010" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0010"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_d4_TCTCGCGC-CCTATCCT_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="e8b6cddc29a4ea85e6b668385443142f"/>
+    <FILE filename="UPSC-0159/416_d4_TCTCGCGC-CCTATCCT_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="3173521cd994e7cdb0f60784a1a92c39"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0011" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0011"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_d5_AGCGATAG-CCTATCCT_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="87d825d4310837fa0e05fb4f9e43393a"/>
+    <FILE filename="UPSC-0159/416_d5_AGCGATAG-CCTATCCT_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="43347c5cfe59f8984c22c81b5e388458"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0013" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0013"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_d6_TCTCGCGC-GGCTCTGA_L004_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="bfc0f604fae883899a5e514f46cb09ff"/>
+    <FILE filename="UPSC-0159/416_d6_TCTCGCGC-GGCTCTGA_L004_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="90aa28df6efcbbcfff2caa7e44ec623c"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0012" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0012"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_d6_TCTCGCGC_L003_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="54a56e5821251cf306b8d1a62bd730fc"/>
+    <FILE filename="UPSC-0159/416_d6_TCTCGCGC_L003_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="392a2383c4151bd3047a3133bfc83a38"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0014" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0014"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_b4_GAATTCGT-ATAGAGGC_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="48b67d1a0e955e47372d35f4afd96ab1"/>
+    <FILE filename="UPSC-0159/416_b4_GAATTCGT-ATAGAGGC_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5603b6020ff3f413be916bb8bb707eac"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0015" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0015"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_b5_CTGAAGCT-ATAGAGGC_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="b5cb250850632ae43494597c8e5892fa"/>
+    <FILE filename="UPSC-0159/416_b5_CTGAAGCT-ATAGAGGC_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="84faad9935f0ce84597f4bfd03ad2ab0"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0016" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0016"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_b6_TAATGCGC-ATAGAGGC_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5beae5f014c47889f14789a21fb0aea9"/>
+    <FILE filename="UPSC-0159/416_b6_TAATGCGC-ATAGAGGC_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="9356efaefd83fe4fe0fad2f8c87c9194"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0017" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0017"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_a1_ATTACTCG-ATAGAGGC_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="8a6deccf0c22f79b36df4b2f9a38d11d"/>
+    <FILE filename="UPSC-0159/416_a1_ATTACTCG-ATAGAGGC_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="94e2b830368a768b5364d302077d2d60"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0018" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0018"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_a2_TCCGGAGA-ATAGAGGC_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6010c58ae34bd566351a2d0fd5f98d9d"/>
+    <FILE filename="UPSC-0159/416_a2_TCCGGAGA-ATAGAGGC_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="68d8b1cee308950a554a2a1f2a3ae306"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0019" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0019"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_a3_CGCTCATT-ATAGAGGC_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="0eaf1419d20ff9b9fc63caf15ea0b8c8"/>
+    <FILE filename="UPSC-0159/416_a3_CGCTCATT-ATAGAGGC_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="cf85451a6ff5437269d5ed1d3edb204e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0020" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0020"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_c1_AGCGATAG-ATAGAGGC_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="504e7ac6fa312295c8b8063693d063cd"/>
+    <FILE filename="UPSC-0159/416_c1_AGCGATAG-ATAGAGGC_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="961752bf7bc9b16811bbaf2d63f8f5d0"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0021" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0021"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_c2_ATTACTCG-CCTATCCT_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="e79e88adf7a17d902acf71b19ad7ae48"/>
+    <FILE filename="UPSC-0159/416_c2_ATTACTCG-CCTATCCT_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2523209dc5e3e3b7b01049a2d760426c"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0022" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0022"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_c3_TCCGGAGA-CCTATCCT_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="7517b436255cefb2f6ac22ac6575dd77"/>
+    <FILE filename="UPSC-0159/416_c3_TCCGGAGA-CCTATCCT_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="eed3921261e367813da74e4ac7806b9b"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0023" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0023"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_e1_AGCGATAG-GGCTCTGA_L004_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2db989c18698cb0752e93b4830b888ea"/>
+    <FILE filename="UPSC-0159/416_e1_AGCGATAG-GGCTCTGA_L004_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="c58431a37454b05d36bb396099a53d58"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0024" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0024"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_e2_TCCGCGAA-TAATCTTA_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="51de710b2b9db1ad6643d6868b90c38f"/>
+    <FILE filename="UPSC-0159/416_e2_TCCGCGAA-TAATCTTA_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="daf7e8f5b58fefa35282254f8a9a35a7"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0025" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0025"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_e3_TCTCGCGC-TAATCTTA_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="496038e8ce447894c7d36181250e36fa"/>
+    <FILE filename="UPSC-0159/416_e3_TCTCGCGC-TAATCTTA_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="0811873e3c12d80f84aa4ea0f7ba0af4"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0026" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0026"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_d1_TAATGCGC-CCTATCCT_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="0a7de0a54b22c07c8d1d619413a81e75"/>
+    <FILE filename="UPSC-0159/416_d1_TAATGCGC-CCTATCCT_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="ed49e96afe6a903c89741af7385f84f6"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0027" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0027"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_d2_CGGCTATG-CCTATCCT_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5edff6e6fbbd154c25c59c96a0677226"/>
+    <FILE filename="UPSC-0159/416_d2_CGGCTATG-CCTATCCT_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="069c1b1c0d9a45047d3e31f08ba08476"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0028" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0028"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_d3_TCCGCGAA-CCTATCCT_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="4c520d1362be8e48aa65aa174fd6854a"/>
+    <FILE filename="UPSC-0159/416_d3_TCCGCGAA-CCTATCCT_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="ab3b3ecad5f3b32324a2fd80309d0850"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0029" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0029"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_b1_CGGCTATG-GGCTCTGA_L004_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="78ecee31c04519b54830fc17043ded20"/>
+    <FILE filename="UPSC-0159/416_b1_CGGCTATG-GGCTCTGA_L004_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="9f3474267e1c75278006a7a584778ce4"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0030" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0030"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_b2_GAGATTCC-ATAGAGGC_L006_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="e8360de2a156da38a2b6db82a00da5b2"/>
+    <FILE filename="UPSC-0159/416_b2_GAGATTCC-ATAGAGGC_L006_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="9564702c27673edb0ab6885a9b493f69"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0159-R0031" center_name="UPSC" run_center="IGA" run_date="2017-10-07T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0159-E0031"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0159/416_b3_ATTCAGAA-ATAGAGGC_L007_1.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="d8c1ae6250087a16385fa40133eff4e4"/>
+    <FILE filename="UPSC-0159/416_b3_ATTCAGAA-ATAGAGGC_L007_2.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="8ce510ea16bfc7dc4d086bee93208f31"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>

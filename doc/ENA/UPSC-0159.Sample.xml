@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0159-S0001" center_name="UPSC">
+  <TITLE>EBB3-0W-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 0W treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0002" center_name="UPSC">
+  <TITLE>EBB3-0W-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 0W treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0003" center_name="UPSC">
+  <TITLE>EBB3-0W-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 0W treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0004" center_name="UPSC">
+  <TITLE>EBB3-2WC-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 2WC treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0005" center_name="UPSC">
+  <TITLE>EBB3-2WC-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 2WC treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0006" center_name="UPSC">
+  <TITLE>EBB3-2WC-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 2WC treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0007" center_name="UPSC">
+  <TITLE>EBB3-2WLD-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 2WLD treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0008" center_name="UPSC">
+  <TITLE>EBB3-2WLD-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 2WLD treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0009" center_name="UPSC">
+  <TITLE>EBB3-2WLD-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 2WLD treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0010" center_name="UPSC">
+  <TITLE>EBB3-5WC-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 5WC treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0011" center_name="UPSC">
+  <TITLE>EBB3-5WC-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 5WC treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0012" center_name="UPSC">
+  <TITLE>EBB3-5WC-RC1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 5WC treatment - biological replicate C technical replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0013" center_name="UPSC">
+  <TITLE>EBB3-5WC-RC2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 5WC treatment - biological replicate C technical replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0014" center_name="UPSC">
+  <TITLE>EBB3-10WSD-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 10WSD treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0015" center_name="UPSC">
+  <TITLE>EBB3-10WSD-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 10WSD treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0016" center_name="UPSC">
+  <TITLE>EBB3-10WSD-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>EBB3 line after 10WSD treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0017" center_name="UPSC">
+  <TITLE>T89-0W-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 0W treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0018" center_name="UPSC">
+  <TITLE>T89-0W-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 0W treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0019" center_name="UPSC">
+  <TITLE>T89-0W-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 0W treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0020" center_name="UPSC">
+  <TITLE>T89-2WC-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 2WC treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0021" center_name="UPSC">
+  <TITLE>T89-2WC-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 2WC treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0022" center_name="UPSC">
+  <TITLE>T89-2WC-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 2WC treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0023" center_name="UPSC">
+  <TITLE>T89-2WLD-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 2WLD treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0024" center_name="UPSC">
+  <TITLE>T89-2WLD-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 2WLD treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0025" center_name="UPSC">
+  <TITLE>T89-2WLD-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 2WLD treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0026" center_name="UPSC">
+  <TITLE>T89-5WC-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 5WC treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0027" center_name="UPSC">
+  <TITLE>T89-5WC-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 5WC treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0028" center_name="UPSC">
+  <TITLE>T89-5WC-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 5WC treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0029" center_name="UPSC">
+  <TITLE>T89-10WSD-RA</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 10WSD treatment - biological replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0030" center_name="UPSC">
+  <TITLE>T89-10WSD-RB</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 10WSD treatment - biological replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0159-S0031" center_name="UPSC">
+  <TITLE>T89-10WSD-RC</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 WT after 10WSD treatment - biological replicate C</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>
